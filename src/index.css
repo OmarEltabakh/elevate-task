@@ -1,0 +1,17 @@
+* {
+    font-family: "Cairo", serif;
+
+}
+
+.redborder {
+    border: 3px solid red;
+}
+
+
+
+.greenborder {
+    border: 5px solid green;
+}
+.fa-star{
+   color: gold;
+}
