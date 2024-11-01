@@ -11,4 +11,4 @@ Running the App Locally
 2- Install dependencies: npm install
 3- Start the app: npm start
 4- Test Error Handling: Change the API URL temporarily to test error message display.
-Visit the live app:https://github.com/OmarEltabakh/elevate-task.git
+Visit the live app: https://elevate-task-ashy.vercel.app/
